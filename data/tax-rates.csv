@@ -1,0 +1,9 @@
+geo_zone_name,tax_rate,tax_description,tax_priority
+Canada GST,5,Goods and Services Tax,1
+HST (excl. NS & PEI),13,Harmonized Sales Tax,1
+HST PEI,14,Harmonized Sales Tax,1
+HST NS,15,Harmonized Sales Tax,1
+PST MB,7,Provincial Sales Tax,1
+PST QC,9.975,Provincial Sales Tax,1
+PST SK,5,Provincial Sales Tax,1
+PST BC,7,Provincial Sales Tax,1

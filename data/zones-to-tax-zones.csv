@@ -1,0 +1,19 @@
+geo_zone_name,zone_name,countries_name
+"HST (excl. NS, PEI)",New Brunswick,Canada
+"HST (excl. NS, PEI)",Newfoundland,Canada
+"HST (excl. NS, PEI)",Ontario,Canada
+Canada GST,Alberta,Canada
+Canada GST,British Columbia,Canada
+Canada GST,Manitoba,Canada
+Canada GST,Northwest Territories,Canada
+Canada GST,Nunavut,Canada
+Canada GST,Prince Edward Island,Canada
+Canada GST,Quebec,Canada
+Canada GST,Saskatchewan,Canada
+Canada GST,Yukon Territory,Canada
+HST NS,Nova Scotia,Canada
+HST PEI,Prince Edward Island,Canada
+PST MB,Manitoba,Canada
+PST QC,Quebec,Canada
+PST SK,Saskatchewan,Canada
+PST BC,British Columbia,Canada

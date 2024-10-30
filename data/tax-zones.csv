@@ -1,0 +1,9 @@
+geo_zone_name,geo_zone_description
+Canada GST,Canadian Goods and Services Tax Zone
+"HST (excl. NS, PEI)",Harmonized Sales Tax Zone (excluding NS & PEI which have different rates)
+HST NS,Harmonized Sales Tax Zone for NS
+HST PEI,Harmonized Sales Tax Zone for PEI
+PST MB,Provincial Sales Tax Zone for MB
+PST QC,Provincial Sales Tax Zone for QC
+PST SK,Provincial Sales Tax Zone for SK
+PST BC,Provincial Sales Tax Zone for BC
